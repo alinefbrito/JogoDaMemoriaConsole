@@ -65,7 +65,7 @@ do
     Console.WriteLine("\r\n Digite qualquer tecla para Continuar");
     Console.ReadKey();
 } while (contAcertos < totalCartas / 2);
-Console.WriteLine("Você Ganhou");
+Console.WriteLine("Parabéns!!! Você Ganhou");
 //finalizar jogo
 
 
